@@ -1,26 +1,119 @@
-Hello! This is my GitHub Profile Readme.
+<p align="center">
+  <img src="https://github.com/Rohi56u/Rohi56u/raw/main/rohit_banner%20(2).jpg"
+       alt="Rohit AI Engineer Banner"
+       width="100%">
+</p>
 
-# 💫 About Me:
-🔭 I’m currently working on<br><br>AI-powered cybersecurity tools, including an intelligent Cyber Defense Assistant using Gemini models<br><br>Machine Learning fundamentals (Python, Pandas, Numpy, Scikit-learn)<br><br>Personal automation tools and AI-based productivity apps<br><br>🤝 I’m looking to collaborate on<br><br>Open-source AI/ML projects<br><br>Cybersecurity research tools<br><br>Automation scripts, AI agents, and data science mini-projects<br><br>Tools related to education, productivity, or security<br><br>🤔 I’m looking for help with<br><br>Advanced Machine Learning optimization<br><br>Cloud deployment (Docker, AWS, GCP)<br><br>Improving my AI model integration and full-stack application performance<br><br>🌱 I’m currently learning<br><br>Data Science from scratch (Python → ML → Projects)<br><br>Cybersecurity fundamentals & ethical hacking<br><br>Full-stack development and API integration<br><br>German language (B1 level) and Japanese basics<br><br>AI project development for hackathons (Kaggle x Google Gemini)<br><br>💬 Ask me about<br><br>Python programming, automation, and scripting<br><br>Beginner to intermediate cybersecurity concepts<br><br>AI tools, prompt engineering, and agent workflows<br><br>Machine learning project structure<br><br>Tech, finance, and productivity content<br><br>⚡ Fun fact<br><br>I turn simple ideas into complete AI tools — and I love building useful things that make tech easier for everyone.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-choudhary-a95733275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rc8908969@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohit56u&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rohit56u&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit56u&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rohit56u&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">👋 Hi, I'm <span style="color:#ff4a4a;">Rohit</span></h1>
+<h3 align="center">AI Engineer • Cybersecurity Developer • Python Wizard</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohit56u&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Who Am I?
+I am Rohit — an AI-focused cybersecurity developer who builds powerful, practical and intelligent tools using Python, modern AI models, and security fundamentals.  
+I focus on blending **AI + Cybersecurity + Automation** to solve real-world problems.
+
+- 🔐 Building **AI-powered Cybersecurity Defense tools**
+- 🤖 Training & deploying **AI Agents + Gemini models**
+- 🧠 Practicing **Data Science + Machine Learning**
+- 💻 Passionate about **backend Python & automation**
+- 🚀 Goal: Become a **Top-tier AI & Cybersecurity Engineer by 2026**
+
+---
+
+## 💡 My Philosophy  
+> **"Code is not just written… it is engineered."**  
+> **"Secure systems + smart AI = future."**
+
+---
+
+# 🧠 Tech Stack (My Weapons)
+### 🚩 Languages  
+- Python 🐍  
+- Java ☕  
+- C  
+- JavaScript  
+
+### 🤖 AI / ML  
+- NumPy  
+- Pandas  
+- Scikit-Learn  
+- TensorFlow  
+- Matplotlib  
+
+### 🛡️ Cybersecurity  
+- Linux  
+- Burp Suite  
+- Wireshark  
+- Networking basics  
+- Ethical hacking fundamentals  
+
+### 🧰 Tools  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Notion  
+- Chrome DevTools  
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 **1. Gemini Cyber Defender**  
+A full AI-powered vulnerability analysis system:  
+- Scans website / IP  
+- Detects misconfigurations  
+- AI generates security explanation  
+- Future: automated patch suggestions
+
+## 🤖 **2. AI Automation Assistant**  
+Multi-agent Python system using Gemini that:  
+- Automates tasks  
+- Reads data  
+- Summarizes + executes workflows  
+- Trigger-based smart actions  
+
+---
+
+# 📊 GitHub Analytics  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohi56u&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohi56u&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+# 🏆 Achievements & Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohi56u&theme=discord&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+# 🧩 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+# 👁 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohi56u&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+# 🛡 Connect With Me  
+<p align="center">
+<a href="https://linkedin.com/in/Rohitchoudhary-a95733275" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rohit56u@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center"><b>🔥 This is Rohit — crafting secure, intelligent systems, one line of code at a time.</b></p>
